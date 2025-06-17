@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: rgba(238, 221, 193, 255);
+}
+
+#fundo {
+
+    padding: 10px;
+    border-radius: 3px;
+    width: 100%;
+}
+
+body {
+    background-color: rgba(143, 46, 24, 255);
+
+}
+h4,p{
+    color: white;
+    padding: 20px;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+}
+
+h5{
+    color: rgba(140,44,23,255);
+}
+p{
+
+   color:rgba(239,222,192,255) ; 
+}
